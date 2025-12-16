@@ -1,0 +1,6 @@
+git init                # kalau belum repo
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin <URL-repo-github-mu>
+git push -u origin main
